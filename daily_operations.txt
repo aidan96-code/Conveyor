@@ -1,0 +1,2 @@
+The total hours the system ran yesterday: 8
+Total products produced yesterday: 706
